@@ -44,6 +44,25 @@
     display: block;
     color: black;
 }
+
+.digits_password_eye {
+   top: 10px;
+   opacity: 1;
+}
+
+.digits_password_eye-closed-line {
+    background: rgb(119,119,119);
+}
+
+.digits_secure_close-sic, .digits_secure_modal-close {
+    background-color: white;
+    border-radius: inherit;
+}
+
+.digits-form_button-text {
+    font-size: 15px;
+    font-weight: 400;
+}
 ```
 ## CSS for tablet
 ```
